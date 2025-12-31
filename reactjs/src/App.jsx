@@ -4,7 +4,8 @@ import Card from './components/card.js'
 
 function App() {
    return (
-     <div>
+     <div className="header">
+       <div className="container"></div>
      </div>
   )
 }
