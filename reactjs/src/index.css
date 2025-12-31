@@ -14,8 +14,8 @@
 }
 
 header {
-
-  background: pink
+   background: #111
+   border-radius : 10px
 }
 
 a {
