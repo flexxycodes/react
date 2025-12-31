@@ -1,8 +1,12 @@
 .body {
-   display: flex;
+   background-color: #f2e4c7;
 }
 
 .header {
-   background-color: #111;
+   background-color: #a28e78;
    border-radius: 10px;
+}
+
+.header h1 {
+   color: #f5ebdd;
 }
